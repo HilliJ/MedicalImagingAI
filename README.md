@@ -3,8 +3,8 @@ This repository contains materials regarding AI in Diagnostic Imaging.
 
 If you've arrived on this page from the ACHSM 2025 conference, we hope you enjoyed our presentation!  
 A digital copy of our poster and supplementary files can be found here:
- - [ACHSM 2025 Poster](https://github.com/HilliJ/MedicalImagingAI/blob/main/ACHSM%202025/ACHSM2025_AI_In_Medical_Imaging.jpg)
- - [Handout and Supplementary files](https://github.com/HilliJ/MedicalImagingAI/blob/main/ACHSM%202025/)
+ - [ACHSM 2025 Poster](https://github.com/HilliJ/MedicalImagingAI/blob/main/ACHSM2025/ACHSM2025_AI_In_Medical_Imaging.jpg)
+ - [Handout and Supplementary files](https://github.com/HilliJ/MedicalImagingAI/blob/main/ACHSM2025/)
 
 Presented at the [ACHSM 2025](https://www.achsm.org.au/events/2025-congress-darwin/) Health Leadership Congress.
 
